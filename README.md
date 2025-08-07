@@ -1,6 +1,6 @@
 # Stylin.AI 💬✨
 
-Stylin.AI is your **AI-powered fashion stylist chatbot**, built with HTML, CSS, and JavaScript and integrated with **IBM Watson Assistant**.
+Stylin.AI is your **AI-powered fashion stylist chatbot**, built with HTML, CSS, and integrated with **IBM Watson Assistant**.
 
 👗 From helping you pick outfits to giving styling advice, this sleek and light-themed chatbot lives right on your website, ready to assist users with their next fashion moment.
 
